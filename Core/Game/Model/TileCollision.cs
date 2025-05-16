@@ -1,4 +1,4 @@
-﻿namespace Core.Game.Entity;
+﻿namespace Core.Game.Model;
 
 public enum TileCollision
 {

@@ -24,6 +24,13 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:resGW/chestV1.png
+/build:resGW/eyeEnemyAttacking.png
+/build:resGW/eyeEnemyDied.png
+/build:resGW/eyeEnemyDamaged.png
+
+/build:resGW/playerAttacking.png
+/build:resGW/playerDamaged.png
+/build:resGW/playerDied.png
 
 #begin resGW/enemyV1.png
 /importer:TextureImporter
